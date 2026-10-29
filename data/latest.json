@@ -1,4 +1,14 @@
 {
+  "2026/10/29": [
+    {
+      "title": "S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+      "author": "Haoyu Wang et al., NeurIPS 2026",
+      "github": "https://github.com/00why00/S2RL",
+      "url": "https://arxiv.org/abs/2610.35491",
+      "cite": "wang2026s2rl",
+      "website": "https://00why00.github.io/S2RL/"
+    }
+  ],
   "2026/07/08": [
     {
       "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
