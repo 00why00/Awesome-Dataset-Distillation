@@ -1,0 +1,9 @@
+@misc{wang2026s2rl,
+  title={S$^2$-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation},
+  author={Haoyu Wang and Fei Zhou and Qingqing Qiu and Lei Zhang and Wei Wei and Chen Ding},
+  year={2026},
+  eprint={2610.35491},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.35491}
+}
